@@ -15,7 +15,7 @@ Open Port Exporter is a tool designed to scan specified hosts and ports to deter
 You can install Open Port Exporter using the go install command:
 
 ```shell
-go install github.com/yourusername/open-port-exporter@latest
+go install github.com/FindMyKids/open-port-exporter@latest
 ```
 
 ## Usage
@@ -64,7 +64,7 @@ Ensure you have Go installed on your machine.
 Clone the repository:
 
 ```shell
-git clone https://github.com/yourusername/open-port-exporter.git
+git clone https://github.com/FindMyKids/open-port-exporter.git
 ```
 
 Navigate to the project directory:
